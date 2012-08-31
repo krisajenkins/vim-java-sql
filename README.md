@@ -4,6 +4,10 @@ A very simple plugin to enable SQL syntax highlighting inside strings in a
 Java file. If you can handle the visual trip of two syntax highlighters
 co-existing, this plugin will provide.
 
+## Screenshot
+
+![Screenshot](https://raw.github.com/krisajenkins/vim-java-sql/master/vim-java-sql-screenshot.png)
+
 ## Installation
 
 * Install [Pathogen][pathogen]. (You're already using Pathogen, right?)
